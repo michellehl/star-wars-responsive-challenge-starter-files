@@ -1,0 +1,92 @@
+main {
+ 
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+
+.top {
+	height: 50px;
+
+
+}
+.box {
+  height: 100%;
+  text-align: left;
+  padding-bottom: 30px;
+  border-style: 1px;
+  border: solid lightgray;
+  float: center;
+ 
+}
+
+.gold {
+	background-color: gold;
+
+}
+
+.rey {
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+
+}
+.finn {
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.kylo {
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.poe {
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.chewbacca {
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.yoda {
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.black {
+  
+ 
+}
+
+.green {
+ 
+}
+
+.orange {
+  
+}
+
+
+.blue {
+  
+}
+.purple{
+	}
+.yellow{
+	
+}
+.red{
+	
+}
